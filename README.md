@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @akshay3301
-- 👀 engineering
-- 🌱 information science
+- 👋 Hi, I’m H S Akshay
+- 👀 Software Engineering
+- 🌱 Information science
 - 📫 hsaskshay276@gmail.com
 
 <!---
